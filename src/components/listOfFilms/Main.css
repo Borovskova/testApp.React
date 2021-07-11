@@ -1,0 +1,25 @@
+.img1, .img2, .img3 {
+  height: 300px;
+  width: 200px;
+  display: inline-grid;
+}
+.Film1{
+  display: block;
+  text-align: center;
+}
+.Film2{
+  display: block;
+  text-align: center;
+}
+.Film3{
+  display: block;
+  text-align: center;
+}
+.films{
+  background-color: lightgray;
+  color: gray;
+  border: solid;
+}
+hr{
+  border: solid;
+}
